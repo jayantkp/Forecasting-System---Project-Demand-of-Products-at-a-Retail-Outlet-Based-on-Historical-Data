@@ -1,1 +1,1 @@
-# Forecasting-System---Project-Demand-of-Products-at-a-Retail-Outlet-Based-on-Historical-Data
+# Forecasting Systemt to project demand of products at a Retail Outlet based on historical data.
